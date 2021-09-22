@@ -1,3 +1,4 @@
 ## Hubber Memory Game
 
-The classic 
+The classic memory game, with your favorite hubbers
+
