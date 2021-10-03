@@ -6,4 +6,4 @@ The classic memory game, with your favorite hubbers
 
 ## Resources
 
-Tutorial using [
+Tutorial using [HTML5 Games development by Example:
