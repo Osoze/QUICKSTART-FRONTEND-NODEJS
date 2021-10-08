@@ -13,4 +13,4 @@ Hosted using [GitHub Pages](https://pages.github.com/).
 ## Contributing
 
 - Fork the repository.
-- Create a branch (e.g. `my-
+- Create a branch (e.g. `my-awesome-feature`) for the work you’re go
