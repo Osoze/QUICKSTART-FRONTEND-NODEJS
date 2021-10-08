@@ -12,4 +12,5 @@ Hosted using [GitHub Pages](https://pages.github.com/).
 
 ## Contributing
 
-- Fork t
+- Fork the repository.
+- Create a branch (e.g. `my-
