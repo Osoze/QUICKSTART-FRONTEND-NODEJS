@@ -8,4 +8,8 @@ The classic memory game, with your favorite hubbers
 
 Tutorial using [HTML5 Games development by Example: Beginners Guide](http://www.amazon.com/gp/product/B005KRUHXI/ref=kinw_myk_ro_title#).
 
-Hosted using [GitHub Pages](https://pages.github
+Hosted using [GitHub Pages](https://pages.github.com/).
+
+## Contributing
+
+- Fork t
