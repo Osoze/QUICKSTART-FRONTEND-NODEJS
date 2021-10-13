@@ -14,4 +14,5 @@ Hosted using [GitHub Pages](https://pages.github.com/).
 
 - Fork the repository.
 - Create a branch (e.g. `my-awesome-feature`) for the work you’re going to do.
-- Make your awesome chang
+- Make your awesome changes in your topic branch.
+- Send a pull reque
