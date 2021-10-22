@@ -23,4 +23,4 @@ Just open the index.html file in a browser. No frameworks needed. :grin:
 
 ### Rebuilding the GitHubbers list
 
-The [`js/Hubbers.js`](/js/Hubbers.js) file c
+The [`js/Hubbers.js`](/js/Hubbers.js) file contains a list with all the public members
