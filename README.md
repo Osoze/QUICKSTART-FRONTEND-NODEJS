@@ -19,4 +19,6 @@ Hosted using [GitHub Pages](https://pages.github.com/).
 
 ### Running locally
 
-Just open the index.html file in a browser. No frameworks needed.
+Just open the index.html file in a browser. No frameworks needed. :grin:
+
+### Rebuilding the GitHubbers list
