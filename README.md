@@ -22,3 +22,5 @@ Hosted using [GitHub Pages](https://pages.github.com/).
 Just open the index.html file in a browser. No frameworks needed. :grin:
 
 ### Rebuilding the GitHubbers list
+
+The [`js/Hubbers.js`](/js/Hubbers.js) file c
