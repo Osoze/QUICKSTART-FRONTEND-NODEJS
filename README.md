@@ -24,4 +24,4 @@ Just open the index.html file in a browser. No frameworks needed. :grin:
 ### Rebuilding the GitHubbers list
 
 The [`js/Hubbers.js`](/js/Hubbers.js) file contains a list with all the public members in the [GitHub](https://github.com/github) organization.
-It contains minimal inf
+It contains minimal information which is needed and used when the pu
