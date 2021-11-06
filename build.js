@@ -1,2 +1,3 @@
 // Dependencies
-var GitHub = requi
+var GitHub = require("gh.js")
+  , sameTime = r
