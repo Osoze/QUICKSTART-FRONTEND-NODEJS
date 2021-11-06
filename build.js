@@ -1,3 +1,4 @@
 // Dependencies
 var GitHub = require("gh.js")
-  , sameTime = r
+  , sameTime = require("same-time")
+  , Logger = require(
