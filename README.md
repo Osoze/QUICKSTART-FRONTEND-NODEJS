@@ -30,4 +30,5 @@ This file is updated automatically using the [`build.js`](/build.js) script and 
 
 ```sh
 $ npm i
-$ node build.js <t
+$ node build.js <token>
+```
