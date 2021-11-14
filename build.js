@@ -10,4 +10,7 @@ var GitHub = require("gh.js")
 
 var token = process.argv[2];
 
-// A token is almost mandato
+// A token is almost mandatory
+if (!token) {
+    try {
+        to
