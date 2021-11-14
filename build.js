@@ -13,4 +13,4 @@ var token = process.argv[2];
 // A token is almost mandatory
 if (!token) {
     try {
-        to
+        token = readJson(abs("~/.github-config
