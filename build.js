@@ -4,4 +4,8 @@ var GitHub = require("gh.js")
   , Logger = require("bug-killer")
   , fs = require("fs")
   , readJson = require("r-json")
-  , abs
+  , abs = require("abs")
+  ;
+
+
+var token = process.argv[2];
