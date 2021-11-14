@@ -9,3 +9,5 @@ var GitHub = require("gh.js")
 
 
 var token = process.argv[2];
+
+// A token is almost mandato
