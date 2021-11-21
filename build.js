@@ -16,4 +16,5 @@ if (!token) {
         token = readJson(abs("~/.github-config.json")).token;
         Logger.log("Using the token found in ~/.github-config.json");
     } catch (e) {
-        Logger.log(
+        Logger.log("Usage: node build.js <token>", "warn");
+    
