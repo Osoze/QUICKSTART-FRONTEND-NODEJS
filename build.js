@@ -14,4 +14,6 @@ var token = process.argv[2];
 if (!token) {
     try {
         token = readJson(abs("~/.github-config.json")).token;
-        Logger.log("Using the token found in ~/.github-config.json
+        Logger.log("Using the token found in ~/.github-config.json");
+    } catch (e) {
+        Logger.log(
