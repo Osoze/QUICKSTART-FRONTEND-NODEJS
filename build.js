@@ -21,4 +21,5 @@ if (!token) {
     }
 }
 
-//
+// Initialize the gh.js instance
+var 
