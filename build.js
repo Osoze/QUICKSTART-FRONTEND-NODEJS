@@ -17,4 +17,8 @@ if (!token) {
         Logger.log("Using the token found in ~/.github-config.json");
     } catch (e) {
         Logger.log("Usage: node build.js <token>", "warn");
-        Logger.log("If a token is not provided, this script will fail due to the API
+        Logger.log("If a token is not provided, this script will fail due to the API rate limit.", "warn");
+    }
+}
+
+//
