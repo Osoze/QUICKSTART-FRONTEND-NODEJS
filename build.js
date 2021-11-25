@@ -22,4 +22,6 @@ if (!token) {
 }
 
 // Initialize the gh.js instance
-var 
+var gh = new GitHub(token);
+
+// Fetch GitHub members
