@@ -25,3 +25,4 @@ if (!token) {
 var gh = new GitHub(token);
 
 // Fetch GitHub members
+Logger.log("Fetching the GitHub members.
