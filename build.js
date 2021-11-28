@@ -28,4 +28,7 @@ var gh = new GitHub(token);
 Logger.log("Fetching the GitHub members.");
 gh.get("orgs/github/members", { all: true }, function (err, data) {
     if (err) {
-        return Logge
+        return Logger.log(err, "error");
+    }
+
+    
