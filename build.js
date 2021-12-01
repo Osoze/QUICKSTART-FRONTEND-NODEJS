@@ -34,4 +34,5 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
     // Get names
     Logger.log("Fetching the names.");
     sameTime(data.map(function (c) {
-        return function
+        return function (next) {
+            gh.get("users/" + c.login, f
