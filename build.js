@@ -44,4 +44,6 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
                 next(err, data);
             });
         };
-    
+    }), function (err, data) {
+        if (err) {
+  
