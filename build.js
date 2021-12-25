@@ -40,4 +40,6 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
                     Logger.log("Failed to fetch the name for @" + data.login);
                 } else if (data.name) {
                     Logger.log("Fetched name: " + data.name + " (@" + data.login + ")");
-           
+                }
+                next(err, data);
+ 
