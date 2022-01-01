@@ -49,4 +49,5 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
             return Logger.log(err, "error");
         }
 
-        //
+        // Keep only the data we need
+        data = data.
