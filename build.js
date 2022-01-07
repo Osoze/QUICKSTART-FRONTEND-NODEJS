@@ -50,4 +50,5 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
         }
 
         // Keep only the data we need
-        data = data.
+        data = data.map(function (c) {
+            return
