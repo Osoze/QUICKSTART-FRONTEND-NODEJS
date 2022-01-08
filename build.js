@@ -56,4 +56,7 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
               , name: c.name
               , avatar_url: c.avatar_url
             };
- 
+        });
+
+        // Write to file
+   
