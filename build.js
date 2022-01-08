@@ -54,4 +54,6 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
             return {
                 login: c.login
               , name: c.name
-              , 
+              , avatar_url: c.avatar_url
+            };
+ 
