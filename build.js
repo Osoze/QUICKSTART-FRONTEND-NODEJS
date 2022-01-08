@@ -53,4 +53,5 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
         data = data.map(function (c) {
             return {
                 login: c.login
-  
+              , name: c.name
+              , 
