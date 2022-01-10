@@ -59,4 +59,6 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
         });
 
         // Write to file
-        fs.writeFile("js/Hubbers.js", "var Hubbers = " + JSON.stringify(data), functio
+        fs.writeFile("js/Hubbers.js", "var Hubbers = " + JSON.stringify(data), function (err) {
+            if (err) {
+   
