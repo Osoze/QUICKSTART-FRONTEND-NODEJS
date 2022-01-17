@@ -64,4 +64,6 @@ gh.get("orgs/github/members", { all: true }, function (err, data) {
                 return Logger.log(err, "error");
             }
             Logger.log("Saved js/Hubbers.js");
-    
+        });
+    });
+});
