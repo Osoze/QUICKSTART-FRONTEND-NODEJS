@@ -172,3 +172,21 @@ $(function(){
 
             // This is some shit - we are going to dynamically apply css to the card(s).
             $this
+                .css("background", "#efefef url(" + Hubber.avatar_url + ")")
+                .css("background-size", "128px 128px")
+
+            $this.attr("data-pattern",Hubber.login);
+
+            if ($("[data-pattern="+Hubber.login+"] .name").text() == "" && Hubber.name) {
+                $this.find(".name").text(Hubber.name);
+            } else {
+                $this.find(".login").text(Hubber.login);
+            }
+
+            $this.click(selectCard);
+        });
+        $cards.fadeIn();
+        $loader.fadeOut();
+        matchingGame.timer = setInterval(countTimer, 1000);
+    });
+});
