@@ -139,3 +139,36 @@ function gameover() {
 
 function countTimer() {
 	matchingGame.elapsedTime++;
+	var minute = Math.floor(matchingGame.elapsedTime / 60);
+	var second = matchingGame.elapsedTime % 60;
+
+	if (minute < 10) minute = "0" + minute;
+	if (second < 10) second = "0" + second;
+	$("#elapsed-time").html(minute+":"+second);
+}
+
+$(function(){
+
+    var $cards = $("#cards");
+    var $loader = $("#loader");
+
+    $cards.hide();
+    getHubbers(function (hubbers) {
+        for (var i = 0; i < hubbers.hubbers.length; ++i) {
+            matchingGame.deck.push(hubbers.hubbers[i], hubbers.hubbers[i]);
+        }
+        shuffle(matchingGame.deck);
+        for(var i=0;i<15;i++){
+            $('.card:first-child').clone().appendTo($cards);
+        }
+        $cards.children().each(function(index) {
+            var $this = $(this);
+            $this.css({
+                'left': ($this.width() + 15) * (index % 4),
+                'top': ($this.height() + 15) * Math.floor(index / 4)
+            });
+
+            var Hubber = matchingGame.deck.pop();
+
+            // This is some shit - we are going to dynamically apply css to the card(s).
+            $this
