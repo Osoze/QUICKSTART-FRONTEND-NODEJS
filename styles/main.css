@@ -15,4 +15,8 @@ a, a:visited {
     color: #aea;
     text-decoration: none;	22
     -webkit-transition: all .3s;
-    padding: 
+    padding: 5px;
+}
+a:hover {
+    color: #000;
+    
