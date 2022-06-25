@@ -26,4 +26,7 @@ a:hover {
 #game {
     display: -webkit-box;
     -webkit-box-pack: center;
-    -webkit-bo
+    -webkit-box-align: center;
+
+    display: -moz-box;
+    
