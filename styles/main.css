@@ -19,4 +19,5 @@ a, a:visited {
 }
 a:hover {
     color: #000;
-    
+    background: #aea;
+    text-shadow: none;
