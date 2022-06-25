@@ -9,4 +9,7 @@ body {
 }
 h1 {
     font-weight: bold;
-    text-shadow: 0 2px
+    text-shadow: 0 2px 0 #222;
+}
+a, a:visited {
+    col
