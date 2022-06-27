@@ -30,4 +30,8 @@ a:hover {
 
     display: -moz-box;
     -moz-box-pack: center;
-    -moz-box-align: cent
+    -moz-box-align: center;
+}
+
+#cards {
+    margin-top: 15p
