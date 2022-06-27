@@ -29,4 +29,5 @@ a:hover {
     -webkit-box-align: center;
 
     display: -moz-box;
-    
+    -moz-box-pack: center;
+    -moz-box-align: cent
