@@ -34,4 +34,7 @@ a:hover {
 }
 
 #cards {
-    margin-top: 15p
+    margin-top: 15px;
+    position: relative;
+    width: 557px;
+    heigh
