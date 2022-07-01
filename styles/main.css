@@ -37,4 +37,8 @@ a:hover {
     margin-top: 15px;
     position: relative;
     width: 557px;
-    heigh
+    height: 557px;
+    display: none;
+}
+
+.card {
