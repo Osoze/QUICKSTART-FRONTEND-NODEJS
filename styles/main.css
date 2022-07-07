@@ -44,3 +44,5 @@ a:hover {
 .card {
     -webkit-perspective: 600;
     width: 128px;
+    height: 128px;
+    border-radius:
