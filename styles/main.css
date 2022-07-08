@@ -51,4 +51,7 @@ a:hover {
 
 
     /* changed	*/
-    position: absol
+    position: absolute;
+
+    -moz-transition: all .3s;
+    
