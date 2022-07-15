@@ -63,4 +63,5 @@ a:hover {
     height: 100%;
     position: absolute;
 
-    -moz-transition-property: opacity, -moz-transform, -moz-b
+    -moz-transition-property: opacity, -moz-transform, -moz-box-shadow;
+    -moz-transition-dura
