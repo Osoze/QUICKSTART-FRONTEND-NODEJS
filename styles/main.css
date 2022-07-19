@@ -71,4 +71,5 @@ a:hover {
     transition-duration: .3s;
 
     -moz-backface-visibility: hidden;
-    -webkit-backface-visibility:
+    -webkit-backface-visibility: hidden;
+    backface-visibilit
