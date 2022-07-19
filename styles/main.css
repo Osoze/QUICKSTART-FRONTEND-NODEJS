@@ -65,4 +65,4 @@ a:hover {
 
     -moz-transition-property: opacity, -moz-transform, -moz-box-shadow;
     -moz-transition-duration: .3s;
-    -webkit-trans
+    -webkit-transition-property: opacity, -webkit-transform
