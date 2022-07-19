@@ -70,4 +70,5 @@ a:hover {
     transition-property: opacity, transform, box-shadow;
     transition-duration: .3s;
 
-    -moz-backface-visibility: 
+    -moz-backface-visibility: hidden;
+    -webkit-backface-visibility:
