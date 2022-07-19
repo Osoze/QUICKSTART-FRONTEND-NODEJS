@@ -72,4 +72,9 @@ a:hover {
 
     -moz-backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
-    backface-visibilit
+    backface-visibility: hidden;
+
+}
+
+.front {
+    background: #FFF url(../i
