@@ -77,4 +77,5 @@ a:hover {
 }
 
 .front {
-    background: #FFF url(../i
+    background: #FFF url(../images/mark.png) no-repeat;
+    z-index: 10;
