@@ -85,4 +85,5 @@ a:hover {
 
 
     -moz-transform: rotate3d(0,1,0,-180deg);
-    -webkit-transform: rota
+    -webkit-transform: rotate3d(0,1,0,-180deg);
+    transform: rota
