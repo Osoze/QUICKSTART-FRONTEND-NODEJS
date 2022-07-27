@@ -92,4 +92,6 @@ a:hover {
 }
 
 .back .name, .back .login {
-    posi
+    position: absolute;
+    bottom: 5px;
+    lef
