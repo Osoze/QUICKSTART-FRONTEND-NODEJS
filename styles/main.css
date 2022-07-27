@@ -96,4 +96,8 @@ a:hover {
     bottom: 5px;
     left: 0;
     right: 0;
-    display: bloc
+    display: block;
+    color: #FFF;
+}
+
+.card:hover .fa
