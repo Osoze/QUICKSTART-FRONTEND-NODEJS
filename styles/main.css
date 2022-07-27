@@ -94,4 +94,6 @@ a:hover {
 .back .name, .back .login {
     position: absolute;
     bottom: 5px;
-    lef
+    left: 0;
+    right: 0;
+    display: bloc
