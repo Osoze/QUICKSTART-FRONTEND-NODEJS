@@ -100,4 +100,5 @@ a:hover {
     color: #FFF;
 }
 
-.card:hover .fa
+.card:hover .face{
+    -webkit-box-shadow: 0 0 20px #aa
