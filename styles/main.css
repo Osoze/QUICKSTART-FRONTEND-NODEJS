@@ -106,4 +106,7 @@ a:hover {
 }
 .card-flipped .face{
     -webkit-box-shadow: 0 0 20px #aaa;
-    box-shadow: 0 0 1
+    box-shadow: 0 0 10px #aaa;
+}
+.card-flipped .front {
+    -
