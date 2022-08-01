@@ -109,4 +109,5 @@ a:hover {
     box-shadow: 0 0 10px #aaa;
 }
 .card-flipped .front {
-    -
+    -moz-transform: rotate3d(0,1,0,180deg);
+    -we
