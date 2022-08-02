@@ -113,4 +113,6 @@ a:hover {
     -webkit-transform: rotate3d(0,1,0,180deg);
     transform: rotate3d(0,1,0,180deg);
 
-    /* ensure the front face is b
+    /* ensure the front face is below the back face */
+    z-index: 8;
+}
