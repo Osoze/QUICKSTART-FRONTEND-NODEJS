@@ -116,3 +116,6 @@ a:hover {
     /* ensure the front face is below the back face */
     z-index: 8;
 }
+
+.card-flipped .back {
+    -moz-t
