@@ -110,4 +110,4 @@ a:hover {
 }
 .card-flipped .front {
     -moz-transform: rotate3d(0,1,0,180deg);
-    -we
+    -webkit-transform: rotate3d(0,1,0,1
