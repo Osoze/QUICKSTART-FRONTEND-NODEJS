@@ -120,4 +120,6 @@ a:hover {
 .card-flipped .back {
     -moz-transform: rotate3d(0,1,0,0deg);
     -webkit-transform: rotate3d(0,1,0,0deg);
-    transform: rotate3d(0,1
+    transform: rotate3d(0,1,0,0deg);
+
+    /* ensure the back fac
