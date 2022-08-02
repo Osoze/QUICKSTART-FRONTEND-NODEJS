@@ -118,4 +118,5 @@ a:hover {
 }
 
 .card-flipped .back {
-    -moz-t
+    -moz-transform: rotate3d(0,1,0,0deg);
+    -web
