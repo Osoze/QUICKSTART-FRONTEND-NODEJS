@@ -122,4 +122,5 @@ a:hover {
     -webkit-transform: rotate3d(0,1,0,0deg);
     transform: rotate3d(0,1,0,0deg);
 
-    /* ensure the back fac
+    /* ensure the back face is on top of the front face */
+ 
