@@ -123,4 +123,8 @@ a:hover {
     transform: rotate3d(0,1,0,0deg);
 
     /* ensure the back face is on top of the front face */
- 
+    z-index: 10;
+}
+
+.card-removed {
+    opa
