@@ -127,4 +127,8 @@ a:hover {
 }
 
 .card-removed {
-    opa
+    opacity: 0;
+}
+
+#popup {
+    font-family: 'Orbitr
