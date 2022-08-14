@@ -142,4 +142,6 @@ a:hover {
     top: 0;
     left: 0;
     background: rgba(0,0,0,.5);
-    display: -w
+    display: -webkit-box;
+    -webkit-box-pack: center;
+   
