@@ -144,4 +144,5 @@ a:hover {
     background: rgba(0,0,0,.5);
     display: -webkit-box;
     -webkit-box-pack: center;
-   
+    -webkit-box-align: center;
+    -webkit-trans
