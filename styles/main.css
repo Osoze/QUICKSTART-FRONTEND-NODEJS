@@ -145,4 +145,7 @@ a:hover {
     display: -webkit-box;
     -webkit-box-pack: center;
     -webkit-box-align: center;
-    -webkit-trans
+    -webkit-transition: all .5s ease-in;
+}
+#popup h1 {
+    font
