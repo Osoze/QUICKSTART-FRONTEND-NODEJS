@@ -160,4 +160,7 @@ a:hover {
     display: -webkit-box;
     -webkit-box-pack: center;
     -webkit-box-align: center;
-    -webkit-transition: all .5
+    -webkit-transition: all .5s ease-in;
+}
+#popup-box small {
+    font-size: .
