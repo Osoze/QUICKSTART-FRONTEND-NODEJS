@@ -156,4 +156,5 @@ a:hover {
     height: 300px;
     background: #ccc;
     border-radius: 10px;
-    -webkit-b
+    -webkit-box-shadow: 0 5px 5px #333;
+    display: -webkit-box
