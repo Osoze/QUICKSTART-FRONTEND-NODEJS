@@ -157,4 +157,6 @@ a:hover {
     background: #ccc;
     border-radius: 10px;
     -webkit-box-shadow: 0 5px 5px #333;
-    display: -webkit-box
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: ce
