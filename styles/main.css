@@ -163,4 +163,7 @@ a:hover {
     -webkit-transition: all .5s ease-in;
 }
 #popup-box small {
-    font-size: .
+    font-size: .6em;
+}
+#popup.hide {
+    b
