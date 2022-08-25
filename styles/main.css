@@ -166,4 +166,5 @@ a:hover {
     font-size: .6em;
 }
 #popup.hide {
-    b
+    background: rgba(0,0,0,0);
+    visi
