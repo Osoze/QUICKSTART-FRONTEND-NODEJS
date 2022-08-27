@@ -167,4 +167,6 @@ a:hover {
 }
 #popup.hide {
     background: rgba(0,0,0,0);
-    visi
+    visibility: hidden;
+}
+#popup.hide #pop
