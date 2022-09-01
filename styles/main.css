@@ -169,4 +169,6 @@ a:hover {
     background: rgba(0,0,0,0);
     visibility: hidden;
 }
-#popup.hide #pop
+#popup.hide #popup-box{
+    margin-top: -800px;
+}
