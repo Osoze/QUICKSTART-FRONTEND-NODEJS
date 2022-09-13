@@ -176,3 +176,6 @@ a:hover {
     display: none;
 }
 .ribbon {
+    float: left;
+    position: absolute;
+   
