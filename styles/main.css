@@ -172,3 +172,7 @@ a:hover {
 #popup.hide #popup-box{
     margin-top: -800px;
 }
+.ribbon.hide {
+    display: none;
+}
+.ribbon {
