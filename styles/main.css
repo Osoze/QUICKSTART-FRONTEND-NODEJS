@@ -178,4 +178,6 @@ a:hover {
 .ribbon {
     float: left;
     position: absolute;
-   
+    left: -7px;
+    top: 165px;
+    z-index: 0;
