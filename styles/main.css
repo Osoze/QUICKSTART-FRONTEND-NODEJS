@@ -182,4 +182,7 @@ a:hover {
     top: 165px;
     z-index: 0;
     font-size: .5em;
-    text-transform: upperc
+    text-transform: uppercase;
+    text-align: right;
+}
+.ribbon-body {
