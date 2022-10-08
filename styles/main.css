@@ -188,4 +188,6 @@ a:hover {
 .ribbon-body {
     height: 14px;
     background: #ca3d33;
-    pa
+    padding: 6px;
+    z-index: 100;
+    -webkit-box-sh
