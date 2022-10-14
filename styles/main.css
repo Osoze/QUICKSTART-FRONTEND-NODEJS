@@ -190,4 +190,5 @@ a:hover {
     background: #ca3d33;
     padding: 6px;
     z-index: 100;
-    -webkit-box-sh
+    -webkit-box-shadow: 2px 2px 0 rgba(150,120,70,.4);
+   
