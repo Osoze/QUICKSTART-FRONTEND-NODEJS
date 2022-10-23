@@ -193,4 +193,7 @@ a:hover {
     -webkit-box-shadow: 2px 2px 0 rgba(150,120,70,.4);
     border-radius: 0 5px 5px 0;
     color: #fff;
-    text-shadow: 0px 1px 1px rgba(
+    text-shadow: 0px 1px 1px rgba(0,0,0,.3);
+}
+.triangle{
+    position: rel
