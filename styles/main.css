@@ -198,4 +198,6 @@ a:hover {
 .triangle{
     position: relative;
     height: 0px;
-    
+    width: 0;
+    left: -5px;
+    to
