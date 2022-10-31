@@ -202,4 +202,5 @@ a:hover {
     left: -5px;
     top: -32px;
     border-style: solid;
-  
+    border-width: 6px;
+    border-color: transpa
