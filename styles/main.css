@@ -208,4 +208,6 @@ a:hover {
 }
 
 div#loader {
-    posit
+    position: absolute;
+    left: 0;
+    righ
