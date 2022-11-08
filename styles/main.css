@@ -210,4 +210,6 @@ a:hover {
 div#loader {
     position: absolute;
     left: 0;
-    righ
+    right: 0;
+    top: 320px;
+}
