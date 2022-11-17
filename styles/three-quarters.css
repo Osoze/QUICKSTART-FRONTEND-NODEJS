@@ -1,4 +1,7 @@
 @-moz-keyframes three-quarters-loader {
   0% {
     -moz-transform: rotate(0deg);
-    transform: rotate
+    transform: rotate(0deg);
+  }
+  100% {
+    -moz-transform: ro
