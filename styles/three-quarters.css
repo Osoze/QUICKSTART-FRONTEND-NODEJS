@@ -8,4 +8,6 @@
     transform: rotate(360deg);
   }
 }
-@-webkit-keyframes thr
+@-webkit-keyframes three-quarters-loader {
+  0% {
+    -webkit-tra
