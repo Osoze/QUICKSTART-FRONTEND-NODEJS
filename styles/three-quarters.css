@@ -10,4 +10,6 @@
 }
 @-webkit-keyframes three-quarters-loader {
   0% {
-    -webkit-tra
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+ 
