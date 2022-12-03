@@ -16,4 +16,8 @@
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
- 
+  }
+}
+@keyframes three-quarters-loader {
+  0% {
+    -moz-t
