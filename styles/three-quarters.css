@@ -21,4 +21,5 @@
 @keyframes three-quarters-loader {
   0% {
     -moz-transform: rotate(0deg);
-    -ms-tran
+    -ms-transform: rotate(0deg);
+    -webkit-tran
