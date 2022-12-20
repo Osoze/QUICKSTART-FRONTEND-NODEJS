@@ -22,4 +22,5 @@
   0% {
     -moz-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
-    -webkit-tran
+    -webkit-transform: rotate(0deg);
+    transform: r
