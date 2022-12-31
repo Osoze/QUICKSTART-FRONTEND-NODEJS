@@ -27,4 +27,5 @@
   }
   100% {
     -moz-transform: rotate(360deg);
-    -ms-t
+    -ms-transform: rotate(360deg);
+    -webkit-tra
