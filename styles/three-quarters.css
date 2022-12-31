@@ -23,4 +23,7 @@
     -moz-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
-    transform: r
+    transform: rotate(0deg);
+  }
+  100% {
+    -moz-tra
