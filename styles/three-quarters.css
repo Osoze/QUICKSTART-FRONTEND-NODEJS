@@ -32,4 +32,5 @@
     transform: rotate(360deg);
   }
 }
-/* :not(:required) hides this rule fr
+/* :not(:required) hides this rule from IE9 and below */
+.three-quarters-loader
