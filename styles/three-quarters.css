@@ -33,4 +33,5 @@
   }
 }
 /* :not(:required) hides this rule from IE9 and below */
-.three-quarters-loader
+.three-quarters-loader:not(:required) {
+  -moz-animation: 
