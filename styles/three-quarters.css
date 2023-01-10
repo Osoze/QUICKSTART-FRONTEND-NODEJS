@@ -38,4 +38,5 @@
   -webkit-animation: three-quarters-loader 1250ms infinite linear;
   animation: three-quarters-loader 1250ms infinite linear;
   border: 8px solid #38e;
-  border-righ
+  border-right-color: transparent;
+  border-radius
