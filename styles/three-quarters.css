@@ -36,4 +36,6 @@
 .three-quarters-loader:not(:required) {
   -moz-animation: three-quarters-loader 1250ms infinite linear;
   -webkit-animation: three-quarters-loader 1250ms infinite linear;
-  animation: three-quarters-loader 1250ms infinite l
+  animation: three-quarters-loader 1250ms infinite linear;
+  border: 8px solid #38e;
+  border-righ
