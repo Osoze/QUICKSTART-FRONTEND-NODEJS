@@ -39,4 +39,6 @@
   animation: three-quarters-loader 1250ms infinite linear;
   border: 8px solid #38e;
   border-right-color: transparent;
-  border-radius
+  border-radius: 16px;
+  box-sizing: border-box;
+  dis
