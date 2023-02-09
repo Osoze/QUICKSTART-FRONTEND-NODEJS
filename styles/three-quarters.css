@@ -42,4 +42,6 @@
   border-radius: 16px;
   box-sizing: border-box;
   display: inline-block;
-  position: r
+  position: relative;
+  overflow: hidden;
+  text-indent:
