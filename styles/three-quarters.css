@@ -44,4 +44,7 @@
   display: inline-block;
   position: relative;
   overflow: hidden;
-  text-indent:
+  text-indent: -9999px;
+  width: 32px;
+  height: 32px;
+}
